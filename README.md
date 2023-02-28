@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luquilo
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning ${javascript}
+- 🌱 `I’m currently learning ${javascript} and ${flutter}`
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
