@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, my name is Muhammad Luqmanul Hakim <br>
 👀 I’m interested in technology <br>
-🌱 I’m currently learning `${javascript} and ${flutter}`<br>
+🌱 I’m currently learning `${javascript} and ${flutter}` and front-end stuff <br>
 
 
 ## 🌐 Socials:
