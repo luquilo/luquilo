@@ -15,13 +15,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=luquilo&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=luquilo&icon=1&color=1)](https://visitcount.itsvg.in)
+
 
 ## 🐦 Latest Tweet
 ![](https://gtce.itsvg.in/api?username=luquilo)
-
-### ✍️ Random Dev Quote
-[![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)]
 
 ---
 [![](https://visitcount.itsvg.in/api?id=luquilo&label=Profile%20Views&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
